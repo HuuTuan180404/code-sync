@@ -1,9 +1,148 @@
 id,gloss
+W00947,cứu
+W01700,hôn
+W03061,tai
+W03394,tiêm
+W00136,bánh gối
+W00191,băng giá
+W00118,bảng chữ cái ngón tay
+W00248,bệnh nhân
+W00247,bệnh thủy đậu
+W00249,bệnh tật
+W00314,bọt xà phòng
+W00716,chữa bệnh
+W00709,chữa cháy
+W00925,cuộn giấy vệ sinh
+W00432,cấp cứu
+W00447,cầu cứu
+W00948,cứu hộ
+D0317,cứu sống
+W01376,gãi đầu gãi tai
+W01594,hiệu thuốc
+W01646,hoàng hôn
+W01717,hút thuốc lá
+W00076,hệ bài tiết
+W01860,khuyên tai
+W01767,khám bệnh
+W01768,khám phá
+W01771,kháng sinh
+W01786,khẩu trang
+W01966,lây bệnh
+D0038,mù chữ
+W02367,nghiên cứu
+D0485,nhà vệ sinh
+W02554,nước mắt
+W02668,phòng bệnh
+W02680,phòng thư viện
+W02682,phòng y tế
+W02691,phố cổ Hội an
+W02949,siêu âm
+W03043,sức khỏe
+W03034,sửa chữa
+W03041,sữa rửa mặt
+W03062,tai nạn
+W03543,tai nạn giao thông
+W03333,thuốc bắc
+W03334,thuốc bổ
+W03335,thuốc lá
+W03840,viện bảo tàng
+W03841,viện nghiên cứu
+W03819,vệ sinh cá nhân
+W03965,xe cứu thương
+D0356,đau bụng
+D0358,đau chân
+D0355,đau mắt
+D0446,đau mắt đỏ
+D0359,đau tai
+D0357,đau tay
+D0486,đi vệ sinh
+W01142,đầu hàng
+W02567,ốm đau
+W02761,quá cảnh
+W02852,rẽ phải
+W03095,tay phải
+W03418,tiếp theo
+W00161,báo cáo
+W00393,bưu tá
+W00153,bảo hiểm
+W00719,chứng minh
+W00720,chứng nhận
+W00795,con tem
+W04061,công văn
+W01438,giải quyết
+W01474,giấy tờ
+W01543,hàng đơn vị
+W01669,học phí
+W01785,khẩu hiệu
+D0314,lãng phí
+W02362,nghỉ hưu
+W02348,ngân hàng
+D0145,quả bầu hồ lô
+W03787,văn bản
+W01126,đăng ký
+W03750,ủy ban
+W037511,ủy ban nhân dân
+W00884,cơm
+D0456,muối
+W02835,rau
+W01519,gửi
+W02485,nhận
+W01314,đỡ
+W00377,buồng trứng
+W00127,bánh bột lọc
+D0393,bánh canh
+W00128,bánh cốm
+W00133,bánh gai
+W00135,bánh giò
+W00134,bánh giầy
+D0391,bánh hamburger
+W00140,bánh pizza
+W00141,bánh pía
+D0392,bánh sandwich
+D0110,bánh tráng
+W00144,bánh xe
+W00131,bánh đa
+W00132,bánh đúc
+W00231,bể cá
+W00305,bỏng
+W00362,bụng
+W00385,bữa cơm
+D0402,chanh muối
+D0090,cháo sườn
+D0074,cá kiếm
+W00601,cá mập
+D0073,cá voi
+W00877,cơm hộp
+D0091,cơm rang
+W00814,cổ
+D0311,dân tộc Thái
+W00993,dầu ăn
+W01377,gan
+W01394,gắp thức ăn
+W01676,họng
+W01704,hộp sữa
+W01774,khát nước
+W01775,khát vọng
+W02039,lông
+W02080,lưỡi
+W02144,má
+W02177,mâm cơm
+W02235,môi
+W02166,mặt
+W02262,mớ rau
+D0457,nước mắm
+W02534,nồi cơm điện
+W02693,phổi
+W02836,rau bắp cải
+W02837,rau cải
+W02839,rau cải thảo
+D0329,rau diếp cá
+W02841,rau dền
+W02844,rau mùng tơi
 W02845,rau ngót
 W02851,râu
 W02848,răng
 W02958,sinh tố
-D0397,"sinh tố (bơ, dâu,..)"
 W03008,sốt
 W03039,sữa đặc
 W03214,thận
@@ -18,7 +157,6 @@ W00039,ăn diện
 W00040,ăn hối lộ
 W00042,ăn uống
 D0172,ăn vú sữa
-D0171,ăn vú sữa (bằng thìa)
 W00043,ăn vặt
 D0257,ăn vụng
 D0441,ăn vừa
@@ -197,37 +335,24 @@ D0414,đánh răng
 D0425,Đảng
 W01141,đầu gối
 W01144,đầu tiên
-W00147,bao nhiêu?
 W00116,bảng chỉ dẫn
 D0036,bực mình
 W00425,cau có
-D0130,chúng tôi (2 người) (đại từ)
-D0131,chúng tôi (3 người) (đại từ)
-D0132,chúng tôi (4 người) (đại từ)
-D0133,chúng tôi (5 người) (đại từ)
-D0134,chúng tôi (đại từ)
 W00565,chỉ dẫn
 W00567,chỉ huy
 W00568,chỉ khâu
-D0121,còn bạn?
 W00726,có ích
-D0098,có … không?
 W00915,cùi chỏ
-D0166,cùng / với (giới từ)
-D0118,cũng vậy/cũng thế
 W00929,cử chỉ điệu bộ
 W01459,giàu có
 W01466,giật mình
 W01571,hắt hơi
-D0136,họ (2 người) (đại từ)
-D0137,họ (đại từ)
 D0112,không có
 D0113,không có chi
 W01833,không gian
 W01841,không khí
 W02008,liều mình
 D0438,làm được
-D0370,mệt không?
 W03865,nhiều vô cùng
 W03228,theo dõi
 W03229,theo đuổi
@@ -239,7 +364,6 @@ W03936,xách túi
 W04003,xông hơi
 W01732,ít nhất
 W01188,đều đặn
-W01173,để (đặt)
 W00212,bầu trời
 W00293,bỏ phiếu
 W00561,chi hội
@@ -262,7 +386,6 @@ W02011,lĩnh hội
 W02251,môn Tự nhiên và Xã hội
 W02541,nội quy
 W02660,phong bì
-D0233,quan (chức vụ)
 W02808,quy định
 W02722,quả bầu
 W02799,quốc ca
@@ -337,9 +460,7 @@ W03436,tin học
 W03457,tính chất cơ bản của phân số
 W03377,tỉ lệ
 W01229,đoàn cải lương
-D0303,đất nước bị chia cắt (Việt Nam)
 W00105,bán buôn
-W00108,bán kính (hình tròn)
 W00106,bán đảo
 W00179,bắc bán cầu
 W00603,chim chào mào
@@ -417,7 +538,6 @@ W01398,gấp giấy
 W01399,gấp quần áo
 D0481,hoa giấy
 W01602,hình chiếu
-D0185,kẹt xe/tắc đường
 W01989,lên xe
 W01986,lên đường
 W02037,lối đi
@@ -448,7 +568,6 @@ W01344,đường thẳng
 W01346,đường tròn
 W03742,ủng hộ
 W00836,cốm
-D0378,gỏi/nộm
 D0380,hấp
 D0375,luộc
 D0377,lẩu
@@ -463,7 +582,6 @@ W03051,sườn
 W03524,trà
 D0376,xào
 W04001,xôi
-W00150,bao tay (dùng cho trẻ sơ sinh)
 W00372,buồn nôn
 W00388,bước
 W00197,bắt
@@ -515,7 +633,6 @@ W03240,thêm
 W00653,thích nghi
 W03272,thím
 W03286,thông cảm
-W03370,thương (số)
 D0306,thương mại
 W03281,thổi
 W03305,thở
@@ -625,8 +742,6 @@ W03191,tháo gỡ
 W03328,thúc đẩy
 W03282,thổi bóng
 W03810,vây bắt
-W03903,vùng vẫy (dành cho người)
-D0161,về 4 (từ nơi khác về)
 D0196,xem đã
 W02572,ông già
 D0460,đua đòi
@@ -674,9 +789,6 @@ W00170,bát
 W00380,bút
 W00102,bản nhạc
 W00194,bằng
-W004152,cao (nhà)
-W004153,cao (núi)
-W004151,cao (vật)
 W00422,cao thấp
 W00423,cao tốc
 W00418,cao độ
@@ -699,7 +811,6 @@ W01512,gọn gàng
 W03908,hình vuông
 W01666,học kém
 W01789,khen
-W01864,ki-lô-gam
 W01876,kịch bản
 W02052,lớp
 D0006,Ma Cao
@@ -742,9 +853,7 @@ W01192,đĩa
 W01151,đầy tớ
 W01150,đầy đủ
 W01172,đẹp mê hồn
-W01170,đẹp đẽ (như đẹp)
 W01184,đếm
-W01183,đề-xi-mét vuông (dm<sup>2</sup>)
 W02922,đỏ thắm
 W01277,đổi mới
 W00051,ấm áp
@@ -842,7 +951,6 @@ W01442,giám khảo
 W01456,giáo dục
 W01491,giơ tay
 W01498,giường
-W01509,gói (đgt)
 W01523,gương
 W01392,gắn bó
 W01515,gọt bút chì
@@ -857,7 +965,6 @@ W01856,khung cửa số
 W01859,khuy
 W01832,khối lượng
 D0208,khổ công
-W01865,ki-lô-mét vuông (km<sup>2</sup>)
 W01900,kính
 W01744,kẹp
 W02002,liên tục
@@ -869,8 +976,6 @@ W02036,lỗi lầm
 W02055,lớp phó
 W02107,ma sát
 W02215,minh hoạ
-W02197,mét (m)
-W02199,mét vuông (m<sup>2</sup>)
 W02250,môn Toán
 W02275,mũ
 W02181,mầm non
@@ -955,8 +1060,6 @@ W03263,thiếp mời
 W03308,thợ rèn
 W03710,từ bỏ
 W03712,từ ngữ
-D0251,"đi lạc (đường, rừng..)"
-W00176,bay liệng (bay lượn)
 W00312,boong tàu
 W00094,bàn ghế
 W00098,bàn tán
@@ -992,7 +1095,6 @@ W04072,hãng ô tô
 W01601,hình cầu
 W01662,hót rác
 W01787,khe cửa
-W01810,khoá (cái khóa)
 W01813,khoác áo
 W01793,khép cửa
 W01794,khí cầu
@@ -1022,7 +1124,6 @@ W02522,nóc nhà
 W02322,nền nhà
 W02795,quét nhà
 W02895,rước đèn
-D0186,suy ra (Toán học)
 W02937,sân khấu
 W02938,sân nhà
 W02941,sân vận động
@@ -1032,7 +1133,6 @@ W03017,sợi len
 W03349,thuyền rồng
 D0026,thèm
 D0450,thắp đèn
-W03201,thẳng hàng (Toán học)
 D0174,trông nhà
 W03637,trùm chăn
 W03086,tàu ngầm
@@ -1066,7 +1166,6 @@ W01513,góp ý
 W01404,gậy của người già
 W01711,hung ác
 D0262,háo hức
-W01580,hét (giống la)
 W01606,hình hộp chữ nhật
 W01050,hăm dọa
 W01569,hăng hái
@@ -1080,14 +1179,12 @@ W01737,kẻ thù
 W01910,la hét
 W01947,lão già
 W01983,lễ phép
-W02202,mê say (như: say mê)
 W02391,ngõ
 W02431,người lạ
 D0013,người nước ngoài
 W02423,ngược đãi
 W02495,nhi đồng
 D0265,nhõng nhẽo
-W02500,nhỏ/ nhỏ bé
 W02291,náo nức
 W02537,nổi giận
 W02689,phố
@@ -1124,7 +1221,6 @@ W01478,giếng nước
 W01506,góc tù
 W00258,hóa đơn
 W01882,kiên quyết
-D0328,lượt về (trong thể thao)
 D0327,lượt đi
 W02047,lời giải
 W02108,ma túy
@@ -1149,7 +1245,6 @@ W03435,tin cậy
 W03405,tiến sĩ
 D0003,tiếp tân
 W03535,trạm y tế
-W03525,trả (đt)
 W04065,trả thù
 W03618,trộm cắp
 W03665,trực tiếp
@@ -1162,8 +1257,6 @@ W03107,tấn công
 W03784,vá xe
 W03885,vũ công
 W03800,vận chuyển
-D0160,về 3 (đi về)
-D0162,về 5 (về nhà)
 W03960,xe ben
 W03971,xe cẩu
 W03969,xe lu
@@ -1210,7 +1303,6 @@ W01760,khách sạn
 D0503,l
 W02003,liền sau
 W01939,làng xóm
-W01964,lầu (tầng)
 W02550,nơi chốn
 D0506,o
 W02598,phản động
@@ -1237,7 +1329,6 @@ W02276,múa
 W02923,sáo
 W00590,sĩ quan
 W03624,trống
-D0215,Ô-lim-píc
 W00006,An Giang
 W00288,bò
 W00361,bùn
@@ -1309,7 +1400,6 @@ W01236,đoạn thơ
 W01099,đàn bướm
 W01100,đàn ghi ta
 W01101,đàn kiến
-W01103,đàn tơ-rưng
 W01113,đánh trống
 D0093,đạo diễn
 W01249,đồ chơi
@@ -1454,7 +1544,6 @@ W00995,dầu hoả
 W00996,dầu khí
 W00997,dầu mỏ
 W01493,giới hạn
-D0266,hên/gặp may
 W01603,hình dáng
 W01604,hình elip
 W01617,hình tứ giác
@@ -1508,30 +1597,22 @@ W01826,khóm dứa
 W02544,nông nghiệp
 W03699,tuốt lúa
 W01293,đồng lúa
-D0299,2 < 5 (Toán học)
-D0181,2 < 6 (Toán học)
-D0180,5 > 3 (Toán học)
 D0408,7up
 W00265,biểu đồ
 W00641,chu vi
 W00534,chất hữu cơ
 W00531,chất độc
 D0407,Cocacola
-W00412,cạnh bên (toán)
 W00413,cạnh đáy
 W01039,diện tích
 W01310,dung tích
 W01501,góc bẹt
 W01502,góc bếp
 W01503,góc học tập
-W01595,hiệu (Toán học)
 W01605,hình học
 W01616,hình trụ
-W02556,Oa-sinh-tơn
 W00852,Paris
-W03110,tập hợp (Toán học)
 W03744,UNICEF
-W04031,Y-Éc-Xanh
 W00395,ca
 W00669,chui
 W00672,chum
@@ -1594,43 +1675,28 @@ W02557,óc
 W01095,đan
 W01322,đuốc
 W01201,đích
-D0424,đôi/cặp
-D0012,Albania (nước Albania)
 W00011,anh chị em
 W00015,anh hùng
 W00020,anh vợ
-W00360,Bun-ga-ri (nước Bun-ga-ri)
-W00193,Băng-la-đét (nước Băng-la-đét)
 W00654,chú ý
-W00887,Cu ba (nước Cu ba)
-W00829,Cô-lôm-bi-a (nước Cô-lôm-bi-a)
 W01046,Dinh Độc Lập
 W01482,gió Lào
 W01518,gợi ý
-W01726,I-rắc (nước I-rắc)
-W01733,Italia (nước Italia)
 W02098,lưu ý
 D0316,Lượm
 W02451,nhà thờ Đức Bà
-W02582,Pa-ki-xtan (nước Pa-ki-xtan)
-W02583,Pê-ru (nước Pê-ru)
 W02800,quốc gia
 W02802,quốc khánh
 W03186,thánh địa Mỹ Sơn
-W03536,tràn ngập (nước)
 W03871,vô ý
-W01360,Ê-ti-ô-pi-a (nước Ê-ti-ô-pi-a)
 W04035,ý chí
 W04039,ý thức
 W04040,ý tưởng
-W01288,Đông Timor (nước Đông Timor)
 W01272,độc lập
-D0008,Ả Rập (nước Ả Rập)
 W00146,bao la
 W00287,bít tất
 W00300,bóc vỏ
 W00378,búp bê
-W00349,bơm (cái bơm)
 D0241,bất khuất
 W00205,bập bênh
 D0069,bối rối
@@ -1659,8 +1725,6 @@ W01761,khách vip
 W01770,kháng cự
 W01776,khắc phục
 W01835,khổng lồ
-W01883,kiên trì (giống: kiên nhẫn)
-W01879,kiếm (cái kiếm)
 W01867,kí hiệu
 W01930,lang thang
 W02006,liều lĩnh
@@ -1668,7 +1732,6 @@ W01932,làn sóng
 W02071,lúng túng
 W02046,lơ lửng
 W02020,lọ mực
-W02208,mi-li-mét (mm)
 W02132,màu cam
 W02138,màu nhiệm
 W02205,mênh mông
@@ -1676,7 +1739,6 @@ D0204,mít tinh
 D0427,mũm mĩm
 W02131,mạnh mẽ
 W02279,mục lục
-D0459,nghênh nghênh (đầu)
 W02371,nghĩa trang
 W02355,nghẹn ngào
 W02418,nguyện vọng
@@ -1685,7 +1747,6 @@ W01298,nhiệt độ
 D0453,nhút nhát
 W02296,nắn nót
 W02535,nổi bật
-D0222,nứt nẻ (ruộng)
 W02585,pha chế
 W02586,pha lê
 D0475,phong toả
@@ -1737,7 +1798,6 @@ W03077,tán thành
 W03448,tình cờ
 W03449,tình huống
 W03383,tí hon
-W03390,tích (số)
 W03391,tích cực
 W03461,tính nhẩm
 W03473,tòa soạn
@@ -1750,10 +1810,8 @@ W03111,tập hợp rỗng
 W03117,tập trung
 W03474,tỏa hương
 W03495,tổ trưởng
-W03502,tổng (số)
 W03503,tổng hợp
 W03682,tụ tập
-W03568,tự (tự làm)
 D0037,tự giác
 W03740,ung dung
 W03759,va chạm
@@ -1768,7 +1826,6 @@ W03868,vô tâm
 D0039,vô tình
 W03870,vô tư
 W03856,võ thuật
-W03864,võng (cái võng)
 W03826,vĩ cầm
 W03827,vĩ đại
 W03924,vượt trội
@@ -1781,7 +1838,6 @@ W03876,vỗ tay
 W03878,vội vã
 W03995,xoá bỏ
 W04014,xung đột
-W03950,xăng-ti-mét-khối (cm<sup>3</sup>)
 W04023,xứ Nghệ
 D0115,xử lý
 W04046,yên lòng
@@ -1799,9 +1855,6 @@ W01089,đại úy
 W01114,đạn
 W01092,đảm nhiệm
 W01124,đặc điểm
-W01175,đề-ca-mét (dam)
-W01181,đề-xi-mét (dm)
-W01182,đề-xi-mét khối (dm<sup>3</sup>)
 W01281,đối xứng
 W01280,đối xử
 W01289,đồng bào
